@@ -1,0 +1,1 @@
+new Typed("#typed",{strings:[,"deadrushi#0090","@xyz on yt","xyz loves stacking","i might just end up with ur identity",":o"],typeSpeed:35,delaySpeed:90,showCursor:!1,loop:!0});
