@@ -1,1 +1,1 @@
-new Typed("#typed",{strings:[,"deadrushi#0090","@xyz on yt","xyz loves stacking","i might just end up with ur identity",":o:o:o:o:o:o"],typeSpeed:20,delaySpeed:60,showCursor:!1,loop:!0});
+new Typed("#typed",{strings:[,"deadrushi#0090","@xyz on yt","xyz loves stacking","i might just end up with ur identity",":o:o:o:o:o:o"],typeSpeed:20,delaySpeed:30,showCursor:!1,loop:!0});
